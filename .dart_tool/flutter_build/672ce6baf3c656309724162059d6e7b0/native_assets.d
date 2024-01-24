@@ -1,0 +1,1 @@
+ /Users/shopiyah/Documents/Latihan\ Flutter/simpan_foto/.dart_tool/flutter_build/672ce6baf3c656309724162059d6e7b0/native_assets.yaml: 
